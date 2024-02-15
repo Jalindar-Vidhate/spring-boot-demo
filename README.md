@@ -2,4 +2,4 @@
 
 this is my git repository
 
-author=jalindar vidhate
+author=jalindar Balasaheb vidhate
